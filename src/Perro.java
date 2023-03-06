@@ -74,7 +74,7 @@ public class Perro {
         boolean resultado = Math.random() > 0.51;
         return resultado;
     }
-    public boolean hacerDelBanio(){
+    public boolean hacerDelBaño(){
         System.out.println("¿El perro hizo del baño?...");
         boolean resultado = Math.random() > 0.51;
         return resultado;

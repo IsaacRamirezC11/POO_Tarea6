@@ -4,6 +4,6 @@ public class PerroDriver {
         System.out.println(Dog.getNombre());
         System.out.println(Dog.getEspecie());
         System.out.println(Dog.ladrar());
-        System.out.println(Dog.hacerDelBanio());
+        System.out.println(Dog.hacerDelBaño());
     }
 }
