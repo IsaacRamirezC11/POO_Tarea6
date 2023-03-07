@@ -10,6 +10,8 @@ public static void main(String[] args){
     pantalla2.setTipo("LED");
     pantalla2.setPrecio(3591.46);
     pantalla2.setEstado("Encendido");
+    System.out.println(pantalla1.toString());
+    System.out.println(pantalla2.toString());
 
     pantalla1.apagar();
     pantalla1.PantallaNegra();
